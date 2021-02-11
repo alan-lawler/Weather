@@ -14,7 +14,7 @@ app = dash.Dash(__name__, prevent_initial_callbacks=True, title='...')
 app.layout = html.Div([
     html.Nav([
         html.Img(src='...logo.png'),
-        html.H2('Zephyr')
+        html.H2('')
     ], className='navbar'),
     html.Section([
         html.Div([
