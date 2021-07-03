@@ -1,3 +1,3 @@
-# Weather
+# Wind Speed App
 
-This was a MVP for a weather analysis project using Dash, Plotly, Dash Leaflet, and Pandas.
+This is a web app built in Python using the Dash, Plotly, Dash Leaflet, and Pandas libraries. This was a MVP for a work project that never took off.
